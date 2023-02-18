@@ -173,6 +173,7 @@ wmic os get caption
 | Windows 8.1 Core Single Language | BB6NG-PQ82V-VRDPW-8XVD2-V8P66 |
 | Windows 8.1 Core Country Specific | NCTT7-2RGK8-WMHRF-RY7YQ-JTXG3 |
 | Windows 8.1 Embedded Industry | NMMPB-38DD4-R2823-62W8D-VXKJB |
+| Windows 8.1 Embedded Industry Pro | NMMPB-38DD4-R2823-62W8D-VXKJB
 | Windows 8.1 Embedded Industry Enterprise | FNFKF-PWTVT-9RC8H-32HB2-JB34X |
 | Windows 8.1 Embedded Industry Automotive | VHXM3-NR6FT-RY6RT-CK882-KW2CJ |
 | Windows 8.1 Core Connected (with Bing) | 3PY8R-QHNP9-W7XQD-G6DPH-3J2C9 |
